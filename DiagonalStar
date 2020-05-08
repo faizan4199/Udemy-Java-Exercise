@@ -9,14 +9,7 @@
 //* * *
 //** **
 //*****
-//
-//Explanation:
-//*****   5 stars
-//** **   2 stars space 2 stars
-//* * *   1 star space 1 star space 1 star
-//** **   2 stars space 2 stars
-//*****   5 stars
-//
+
 //EXAMPLE 2
 //printSquareStar(8); should print the following:
 //********
@@ -27,7 +20,7 @@
 //* *  * *
 //**    **
 //********
-
+//
 //--------------------------------------------------------------------------------------------------------------------------------//
 public class DiagonalStar {
 public static void printSquareStar(int number) 
